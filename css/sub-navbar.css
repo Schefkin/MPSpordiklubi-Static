@@ -1,0 +1,52 @@
+/* about page styles */
+
+
+.sub-header {
+    height: 50vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
+    url("https://res.cloudinary.com/dd9trxmnc/image/upload/w_1980/v1692788916/FakeWebsite1/victor-freitas-Yuv-iwByVRQ-unsplash_bjdsou.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+}
+
+.sub-header h1 {
+    margin-top: 100px;
+}
+
+.about-us {
+    width: 80%;
+    margin: auto;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+
+.about-col {
+    flex-basis: 48%;
+    padding: 30px 2px;
+}
+
+.about-col img {
+    width: 100%;
+}
+
+.about-col h2 {
+    padding-top: 0;
+    font-size: 30px;
+}
+
+.about-col p {
+    padding: 15px 0 25px;
+}
+
+.red-btn {
+    border: 1px solid #f44336;
+    background: transparent;
+    color: #f44336;
+}
+
+.red-btn:hover {
+    color: #fff;
+}
