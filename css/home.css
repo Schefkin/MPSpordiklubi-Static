@@ -474,3 +474,21 @@ nav .fa{
 .d-none {
     display: none;
 }
+
+/* kkk */
+.faq {
+    width: 80%;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: left;
+}
+
+.faq-wrap {
+    border-bottom: 1px solid #777;
+    margin-bottom: 20px;
+}
+
+.faq-wrap p {
+    padding: 5px 0;
+}
