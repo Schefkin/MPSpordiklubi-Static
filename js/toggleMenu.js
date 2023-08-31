@@ -9,7 +9,7 @@ const hideMenu = () => {
 
 
 document.getElementById('submissionForm').addEventListener('submit', function(event) {
-    event.preventDefault(); // Prevent the default form submission
+    // event.preventDefault(); // Prevent the default form submission
 
     // Perform any form processing you need here
 
