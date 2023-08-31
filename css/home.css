@@ -414,6 +414,10 @@ nav .fa{
     box-sizing: border-box;
 }
 
+.contact-col p {
+    text-align: center;
+}
+
 /* hinnakiri */
 
 .price {
