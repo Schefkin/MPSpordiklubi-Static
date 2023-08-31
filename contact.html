@@ -103,7 +103,9 @@
                 </div>
 
                 <div class="contact-col">
-                        <form method="POST" name="contact" data-netlify="true">
+                        <form method="POST" name="contact" data-netlify="true" data+netlify-honeypot="bot-field">
+
+                            <input name="bot-field" class="d-none">
 
                             <input type="text" name="name" placeholder="Nimi" required>
                             <input type="email" name="email" placeholder="Email" required>

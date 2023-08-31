@@ -464,3 +464,9 @@ nav .fa{
         flex-direction: column;
     }
 }
+
+
+/* form style thingy */
+.d-none {
+    display: none;
+}
